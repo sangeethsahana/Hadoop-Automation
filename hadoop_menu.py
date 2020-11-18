@@ -134,5 +134,7 @@ def hadoop():
 		
 		input("\nplz enter to cont...")
 		
+hadoop()
+		
 
 
